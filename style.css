@@ -1,0 +1,85 @@
+/*Colors and fonts */
+body{
+	width: 950px;
+	height: 0px;
+	background:#00DEFF;
+	font-family:'Dosis', sans-serif;
+	font-size: 20px;
+	font-weight: 800;
+    text-align: center; 
+    margin:40px auto;
+ 	box-shadow: 1px 8px 25px grey;
+}
+
+h1{
+	font-family:'Pacifico', cursive;
+	font-size: 32px;
+	font-weight: 500;
+}
+
+h2{
+	font-family: 'Indie Flower', cursive;
+	font-size: 26px;
+	font-weight: 700;
+}
+h3{
+	font-family:'Merienda', cursive;
+	font-size: 15px;
+	font-weight: 300;
+	padding:  5px 50px 310px 50px;
+}
+p{
+	font-family:'Dancing Script', cursive;
+    font-size: 26px;
+}
+div{
+	height: 450px;
+    background: #E8FCFF; 
+    border:2px solid #DCFAFF;
+    margin: 20px;
+    padding: 30px;                             
+    border-radius: 4px;                        
+    box-shadow: 0 10px 30px grey; 
+}
+
+a:hover{
+	color: purple;
+}
+
+
+.img{
+	width: 750px;
+	height: 280px;
+	border-radius: 25%;
+	padding: 0px;
+    vertical-align:middle;
+	text-align:center;
+}
+
+.card{	
+    width: 850px;
+	height: 200px;
+	border-radius: 50% 15px;
+	background:#E8FCFF;
+	box-shadow: 1px 8px 25px grey;
+	text-align: center; 
+    margin:50px auto;
+}
+
+.botton{
+	background-color:#00CDFC;
+	font-size: 15px;
+	color:black;
+	padding:5px 10px;
+	border-radius:25px;                 
+    box-shadow: 2px 3px 0px grey; 
+ }
+.botton:hover{
+	background-color:black;
+	color:#D4F5FC;
+	box-shadow: 2px 3px 0px #D4F5FC;
+
+}
+.icon{
+	list-style: none;
+}
